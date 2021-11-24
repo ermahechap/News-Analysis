@@ -3,7 +3,7 @@ Quick and dirty news analysis from Semana and El Tiempo newspapers (for now).
 
 ## News Crawling
 
-The crawler is found in the directory NewsCrawler. It defines the specific crawlers for El Tiempo and Semana newspapers.
+The crawler is found in the directory NewsCrawler. It defines the specific crawlers for El Tiempo and Semana newspapers. **This crawler works by August 2021**
 
 > Both crawlers extends the class NewsSource that handles the scrapping loop, wait times, etc.
 
